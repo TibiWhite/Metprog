@@ -1,5 +1,8 @@
 Algoritmo Pago_pedrial
 	
+	Escribir "************************************";
+	Escribir "Autor: Diego Angel Hernandez Estrada";
+	Escribir "************************************";
 	
 	Definir clave Como Entero
 	
